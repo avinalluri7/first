@@ -1,6 +1,11 @@
 test file of git
 
+
 beans 
 pizza
 
 changed one
+
+
+final copy
+
